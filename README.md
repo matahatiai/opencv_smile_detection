@@ -5,3 +5,6 @@ Open Doors with a Smile - OpenCV
 
 <img src="https://user-images.githubusercontent.com/109353237/179427569-19bac9f8-5833-4352-a25e-21e7ed21cc33.png" width="500" />
 
+### HOW TO RUN
+Upload "facesmile.ino" to your arduino. <br />
+Run file "facesmile.py"<br />
